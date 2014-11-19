@@ -1,0 +1,10 @@
+.Rhistory
+
+*-Ex.R
+
+.Rdata
+
+.DS_Store
+
+# Ignore data
+raw_data
