@@ -61,4 +61,4 @@ tidyData$Subject <- NULL
 tidyData$Activity <- NULL
 
 ## Writing it to the text file
-write.table(tidyData, './tidyData.txt',row.names=TRUE,sep='\t');
+write.table(tidyData, './tidyData.txt', row.names=FALSE, sep='\t');
